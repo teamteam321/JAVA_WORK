@@ -1,4 +1,4 @@
-
+# **Print out Maximum Independent Set (MIS) in graph** 
 
 ### **Poor implementations/resourcs intensive**
 ### **correct result are not guarantee for big graph!!!**
