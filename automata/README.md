@@ -12,3 +12,4 @@ graph library: JGraphT (https://jgrapht.org/)
   * Inaccessible state are automatically sort out
   * Optional colored transition edge 
 
+![GitHub Logo] (auto.png)
