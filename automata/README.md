@@ -8,6 +8,7 @@ graph library: JGraphT (https://jgrapht.org/)
   * Create/edit state, transitions, start state, accept state
   * Test with string
   * Tabs for each Automata
-  * Union and Intersaction
+  * Union and Intersaction of DFA
   * Inaccessible state are automatically sort out
+  * Optional colored transition edge 
 
