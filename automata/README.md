@@ -1,4 +1,4 @@
-Deterministic finite-state machine Visualizer
+###**Deterministic finite-state machine Visualizer**
 
 (with Union and Intersection)\n
 
