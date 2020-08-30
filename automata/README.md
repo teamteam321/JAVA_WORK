@@ -12,4 +12,4 @@ graph library: JGraphT (https://jgrapht.org/)
   * Inaccessible state are automatically sort out
   * Optional colored transition edge 
 
-![alt text] (https://github.com/teamteam321/JAVA_WORK/blob/master/automata/auto.PNG)
+![alt text](https://github.com/teamteam321/JAVA_WORK/blob/master/automata/auto.PNG)
